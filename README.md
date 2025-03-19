@@ -15,4 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=iZergiodev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=iZergiodev.iZergiodev)
